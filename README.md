@@ -1,6 +1,7 @@
 # 🛡️ Image Meta Data Cleaner
 
 **Remove hidden metadata from your photos before sharing — entirely in your browser.**
+Live Demo : https://exif-eraser-app.netlify.app
 
 Strip GPS location, camera serial numbers, timestamps, AI computational tags, and more from your photos with a single click. Nothing is uploaded. Everything runs locally.
 
