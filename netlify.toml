@@ -1,0 +1,27 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/:route/styles.css"
+  to = "/styles.css"
+  status = 200
+
+[[redirects]]
+  from = "/:route/responsive.css"
+  to = "/responsive.css"
+  status = 200
+
+[[redirects]]
+  from = "/:route/viewport-fix.css"
+  to = "/viewport-fix.css"
+  status = 200
+
+[[redirects]]
+  from = "/:route/app.js"
+  to = "/app.js"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
